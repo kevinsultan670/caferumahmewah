@@ -1,0 +1,17 @@
+.video-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.top-image {
+  width: 100%;
+  height: auto;
+}
+
+.cc-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}

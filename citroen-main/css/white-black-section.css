@@ -1,0 +1,14 @@
+/* Light & Dark Mode Styles */
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.light-mode {
+  background-color: white;
+  color: black;
+}
+
+body.dark-mode {
+  background-color: #343a40;
+  color: white;
+}
